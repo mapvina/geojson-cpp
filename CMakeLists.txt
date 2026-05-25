@@ -16,7 +16,7 @@ include(FetchContent)
 
 FetchContent_Declare(
   geometry-hpp
-  GIT_REPOSITORY https://github.com/mapvina/geometry.hpp
+  GIT_REPOSITORY https://github.io/github/mapvina/geometry.hpp
   GIT_TAG origin/main
   EXCLUDE_FROM_ALL
 )
